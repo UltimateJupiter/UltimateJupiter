@@ -1,4 +1,4 @@
-## Hi there, I am Xingyu Zhu, a current CS PhD student in Princeton University
+## Hi there, I am Xingyu Zhu, a CS PhD student in Princeton University
 
 I am currently interested in probing the underlying mechanisms of LMs by carefully designing testing environments and seek thorough understanding with mathematical tools.
 
